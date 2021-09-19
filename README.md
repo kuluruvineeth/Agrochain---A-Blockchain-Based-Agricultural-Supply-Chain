@@ -45,6 +45,16 @@
 
   <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/geth.png" width="100" height="100">  &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/lb.png" width="200" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/nodejs.png" width="100" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/solidity.png" width="100" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/web3js.png" width="100" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/wtg.png" width="300" height="100">
 
+## Smart contract and business logic :
+
+- The smart contract is basically a script or many lines of code deployed in our blockchain to bring the business logic into consideration.
+- The main components of the smart contract are that of the different entities that we had used in the Agromarket. These entities are that of the lot(The lot is    assigned by the tester for testing the specific commodity), StructStorage(is used to map the various addresses to the respective balances of the customers. 
+- Initially we assume that the customer has around 2000 $ as the balance in his account). Another main entity used are that of Farmers entity to store the Farmer ID, name, location he is residing in, crop he is going to grow, his contact address, quantity and the expected price that he would like to raise. This idea was inspired from the concept of crowdfunding.
+- The various functions such as the sendcoin, produce, getproduce, quality and getquality are also used so that the proper details are extracted and displayed to the farmers as and when the need arises. An important point to be noted is that of why we used the memory variable for farmer id. It was done because the farmer id is used as a mapping to extract the farmer details.
+- **Links to screenshots:**
+ - [scr1](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b5.png)
+ - [scr2](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b6.png)
+
 
 
 
