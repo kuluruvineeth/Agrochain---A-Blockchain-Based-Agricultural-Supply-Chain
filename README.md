@@ -24,21 +24,29 @@
 ### 1. Registration form for Farmers:
 - The details we ask while registration are:Farmer id, Farmer name, location, Crop name, phone number, quantity and expected price.
 - The entered details are directly stored onto the blockchain.
+<p align="center"> <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b1.png" width="700" height="400"> </p>
+ 
 ### 2. Quality testing: 
 - Here we get the farmers details mentioned above by entering the Farmer id.
 - Once the quality testing is done the block number is assigned and approved details will provide the details of the farmer.
 - Approved details button will redirect to the product details page where we enter the lot number, grade, price, test date, expiry date and store these details into the ledger as a set of transaction details.
+<p align="center"> <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b2.png" width="700" height="400"> </p>
+
 ### 3. Customer: 
 - In this page the customer has to enter the Farmer id and lot number to see the status of quality testing of his agricultural produce.
+<p align="center"> <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b3.png" width="700" height="400"> </p>
+
 ### 4. Micro-finance: 
 - This form enables any user to fund the farmer.
 - The funding is done by providing the farmer’s public id, lot number of the product and the amount.
+<p align="center"> <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b4.png" width="700" height="400"> </p>
 
 ## Technology stacks used :
 
   <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/geth.png" width="100" height="100">  &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/lb.png" width="200" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/nodejs.png" width="100" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/solidity.png" width="100" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/web3js.png" width="100" height="100"> &nbsp; <img src="https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/Techstack/wtg.png" width="300" height="100">
 
-## Screenshots: 
+
+
 
 
 
