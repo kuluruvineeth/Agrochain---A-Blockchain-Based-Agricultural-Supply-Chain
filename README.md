@@ -52,8 +52,8 @@
 - Initially we assume that the customer has around 2000 $ as the balance in his account). Another main entity used are that of Farmers entity to store the Farmer ID, name, location he is residing in, crop he is going to grow, his contact address, quantity and the expected price that he would like to raise. This idea was inspired from the concept of crowdfunding.
 - The various functions such as the sendcoin, produce, getproduce, quality and getquality are also used so that the proper details are extracted and displayed to the farmers as and when the need arises. An important point to be noted is that of why we used the memory variable for farmer id. It was done because the farmer id is used as a mapping to extract the farmer details.
 - **Links to screenshots:**
- - [scr1](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b5.png)
- - [scr2](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b6.png)
+    - [scr1](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b5.png)
+    - [scr2](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b6.png)
 
 
 
