@@ -55,9 +55,37 @@
     - [scr1](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b5.png)
     - [scr2](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b6.png)
 
+## Steps to use this repo:
+
+ 1. Start ganache! Should work with ganache or geth!
+
+ 2. Go to AgroChain Directory and do 'npm install'
+       update the node_modules folder when you run locally(npm install)
+
+ 3. truffle migrate
+
+ 4. Important Note:
+
+     - In  src directory --> app.js
+
+     - Line number 43820 --->
+
+     - change the variable conaddress = "0x733fa0cfc10adee89e2e426b133f7b40706d5ea3"; 
+
+     - The above value of contract address should be changed to the result you get when you do truffle migrate.
+
+     - When you do truffle migrate you get a contract address !!!
+      Put that value to conaddress!!!
 
 
+ 5. 'npm run dev' to start lite-server
 
+ 6. Goto localhost:3000
+
+**Eureka!**
+
+## Project Video Demonstration:
+[![Watch the demo](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/b1.png)](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/block-chain-video.mkv)
 
 
 
