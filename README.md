@@ -18,6 +18,24 @@
 
 ## Methodology:
 
+![Flowchart](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain/blob/main/screenshots/AgriChain.jpg)
+
+## These are the features or methodologies implemented for the project:
+### 1. Registration form for Farmers:
+- The details we ask while registration are:Farmer id, Farmer name, location, Crop name, phone number, quantity and expected price.
+- The entered details are directly stored onto the blockchain.
+### 2. Quality testing: 
+- Here we get the farmers details mentioned above by entering the Farmer id.
+- Once the quality testing is done the block number is assigned and approved details will provide the details of the farmer.
+- Approved details button will redirect to the product details page where we enter the lot number, grade, price, test date, expiry date and store these details into the ledger as a set of transaction details.
+### 3. Customer: 
+- In this page the customer has to enter the Farmer id and lot number to see the status of quality testing of his agricultural produce.
+### 4. Micro-finance: 
+- This form enables any user to fund the farmer.
+- The funding is done by providing the farmer’s public id, lot number of the product and the amount.
+
+## Technology stacks used :
+
 
 
 
