@@ -12,7 +12,7 @@
 
 ## Introduction:
 
-- **Agrosahakar** is a blockchain based transparent marketplace where the farmers and consumers could implement a co-operative farming method. Here, the farmers can list the potential crops and the expected yield on his farm on the distributed public ledger. The consumers can view the details and check for the farmer's credibility based on the previous cultivation and supply. 
+- **Agrochain** is a blockchain based transparent marketplace where the farmers and consumers could implement a co-operative farming method. Here, the farmers can list the potential crops and the expected yield on his farm on the distributed public ledger. The consumers can view the details and check for the farmer's credibility based on the previous cultivation and supply. 
 
 - This creates a transparent and tamper-proof digital market platform for farm products. Thus an agreement (consensus) can be formed between farmer and consumer, such that the consumer can fund individual crops or a field and can acquire the yield from the farm or the profit percentage of its market value. There will be a rating mechanism to build the credibility of farmer and consumer based on the previous experiences in the agromarket.
 
